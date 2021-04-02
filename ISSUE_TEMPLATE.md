@@ -27,10 +27,10 @@ about: 请根据指示规范填写友链格式。
 <!-- 示例 -->
 
 <!--
-"title": "Akilarの糖果屋",
-"screenshot": "https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg",
-"url": "https://akilar.top/",
-"avatar": "https://akilar.top/img/siteicon/favicon.png",
-"description": "期待您的光临！",
-"keywords": "糖果屋"
+"title": "HopeLight|Blog",
+"screenshot": "https://cdn.jsdelivr.net/gh/HopeLight/ScreenShot@gh-pages/ranas.cn.jpg",
+"url": "https://ranas.cn/",
+"avatar": "https://cdn.jsdelivr.net/gh/HopeLight/photo/blog/icon.png",
+"description": "生亦何欢，死亦何苦",
+"keywords": "HopeBlog"
 -->
