@@ -27,10 +27,10 @@ about: 请根据指示规范填写友链格式。
 <!-- 示例 -->
 
 <!--
-"title": "HopeLight|Blog",
+"title": "HopeBlog",
 "screenshot": "https://cdn.jsdelivr.net/gh/HopeLight/ScreenShot@gh-pages/ranas.cn.jpg",
 "url": "https://ranas.cn/",
 "avatar": "https://cdn.jsdelivr.net/gh/HopeLight/photo/blog/icon.png",
-"description": "生亦何欢，死亦何苦",
+"description": "黎明将至的曙光，怎敢弃途于未来",
 "keywords": "HopeBlog"
 -->
